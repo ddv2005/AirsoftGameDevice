@@ -1,0 +1,17 @@
+Board 1.0
+
+1. C4 block Player USB connector.
+2. Player TX pin hangs main board on start. 
+3. SWT VCC marked as GND
+4. SWT has 2 pins but must be 4 pins and GND required to connect switch
+5. SWT need pullup resistor 10K
+
+Board 1.1 (v2)
+fixes
+1. Move C4 up (fix 1)
+2. Jumpers on Player TX&RX to make selectable connect to 13&2 main board pins (fix 2)
+3. Relaced SWT connector from 2 pin to 4 pin (fix 4)
+4. Added SWT pullup resistor
+
+Board 1.2 (v3)
+1. Replace DF0534 player by I2S

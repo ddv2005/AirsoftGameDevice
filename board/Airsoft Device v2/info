@@ -1,0 +1,408 @@
+{
+  "uuid": "98728e168aee1e34ccd9cc65e7c9537c",
+  "path": "Offline/Airsoft Device v2",
+  "name": "Airsoft Device v2",
+  "content": "",
+  "created_at": "2020-11-03 21:50:45",
+  "updated_at": "2020-11-04 00:07:42",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4b67fbf77d6cebe5ed06ee9402682aa0",
+      "title": "MainSheet",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c0848b07a3ec4723a4d98020c39a1371": 2,
+        "5657e928f1504b21b9e68062d66ba3e3": 1,
+        "98af50f08db14eb1b8c8795b2c87a3d5": 12,
+        "3f55fa6a072141b18c84fa6726d65894": 2,
+        "20e12d7769044bcf9f99459555b67ded": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 2,
+        "0773792ab4f34638bc13021e61e791bf": 5,
+        "40243e5a8a70425ea929848cdf2470e4": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 1,
+        "7d2a7dd0e14e634bd4ecadbf01b81a3a": 2,
+        "c5fa248fd2f4448dbb17db951016c6e8": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1uF",
+          2,
+          "CAPACITOR 0.1 UF",
+          "C2,C1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "21892eb7001a4b70b8abaff85b008f98",
+            "uuid": "3f55fa6a072141b18c84fa6726d65894"
+          }
+        ],
+        [
+          "2200uF",
+          2,
+          "CAP-TH_BD10.0-P5.00-D1.0-FD",
+          "C4,C5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ValuePro",
+            "BOM_Manufacturer Part": "2200uF 16V 10*25VGreen high frequency",
+            "BOM_Supplier Part": "C44570",
+            "puuid": "10740f144756421793e1ecc7520b3129",
+            "uuid": "7d2a7dd0e14e634bd4ecadbf01b81a3a"
+          }
+        ],
+        [
+          "KEYPAD",
+          1,
+          "CONN-TH_8P-P5.00",
+          "J5",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "616f5abcd48c41a199a45175402b1869",
+            "uuid": "20e12d7769044bcf9f99459555b67ded"
+          }
+        ],
+        [
+          "0.47u",
+          1,
+          "CAPACITOR",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "bf342e146e5b45108e734432d8b20615",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "#2 7 Segment LED Display",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "I2C #1",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "BTN 2",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J6",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "BTN 1",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J7",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "#1 7 Segment LED Display",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "I2C #2",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J4",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "SWT",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J9",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "RELAY",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J18",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "Neopixels",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J14",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "OLED",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J15",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "EXT IO",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J16",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "EXT POWER",
+          1,
+          "CONN-TH_4P-P5.00",
+          "J17",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1249f81afe1846008573654eaec6cd8a",
+            "uuid": "98af50f08db14eb1b8c8795b2c87a3d5"
+          }
+        ],
+        [
+          "MAIN BOARD",
+          1,
+          "TTGO-T-BEAM-ESP32-CONNECTOR",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "5180c2e0c1da4a75b575a8495aee30f2",
+            "uuid": "5657e928f1504b21b9e68062d66ba3e3"
+          }
+        ],
+        [
+          "DFR0534",
+          1,
+          "DFR0534",
+          "PLAYER1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "bad64233d6764979b5a1b4bc8d401874",
+            "uuid": "40243e5a8a70425ea929848cdf2470e4"
+          }
+        ],
+        [
+          "Main Board Power",
+          1,
+          "CONN-TH_P5.00-2P",
+          "J10",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "ee29cd49488e436497e3115f7f5c5f2c",
+            "uuid": "0773792ab4f34638bc13021e61e791bf"
+          }
+        ],
+        [
+          "Speaker",
+          1,
+          "CONN-TH_P5.00-2P",
+          "J13",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "ee29cd49488e436497e3115f7f5c5f2c",
+            "uuid": "0773792ab4f34638bc13021e61e791bf"
+          }
+        ],
+        [
+          "Main Power Switch",
+          1,
+          "CONN-TH_P5.00-2P",
+          "J11",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "ee29cd49488e436497e3115f7f5c5f2c",
+            "uuid": "0773792ab4f34638bc13021e61e791bf"
+          }
+        ],
+        [
+          "Battery",
+          1,
+          "CONN-TH_P5.00-2P",
+          "J12",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "ee29cd49488e436497e3115f7f5c5f2c",
+            "uuid": "0773792ab4f34638bc13021e61e791bf"
+          }
+        ],
+        [
+          "BTN 3",
+          1,
+          "CONN-TH_P5.00-2P",
+          "J8",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "ee29cd49488e436497e3115f7f5c5f2c",
+            "uuid": "0773792ab4f34638bc13021e61e791bf"
+          }
+        ],
+        [
+          "25",
+          2,
+          "RESISTOR",
+          "R2,R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2cefa9001f7e4e2082ba8471c4d5cc26",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "Player TX",
+          1,
+          "H2-2.54",
+          "J19",
+          {
+            "BOM_Manufacturer Part": "P125-1102A0BS116A1",
+            "puuid": "a44775ba53d84edb9df9409e7852306a",
+            "uuid": "c5fa248fd2f4448dbb17db951016c6e8"
+          }
+        ],
+        [
+          "Player RX",
+          1,
+          "H2-2.54",
+          "J20",
+          {
+            "BOM_Manufacturer Part": "P125-1102A0BS116A1",
+            "puuid": "a44775ba53d84edb9df9409e7852306a",
+            "uuid": "c5fa248fd2f4448dbb17db951016c6e8"
+          }
+        ],
+        [
+          "I2C EXP 2",
+          1,
+          "PCF8574T_INVERTED",
+          "U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "77e2128305a845258d9921d5d0ffe030",
+            "uuid": "c0848b07a3ec4723a4d98020c39a1371"
+          }
+        ],
+        [
+          "I2C EXP 1",
+          1,
+          "PCF8574T_INVERTED",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "77e2128305a845258d9921d5d0ffe030",
+            "uuid": "c0848b07a3ec4723a4d98020c39a1371"
+          }
+        ]
+      ],
+      "updateTime": 1604462825,
+      "createTime": 1603148223,
+      "histories": [],
+      "created_at": "2020-10-19 18:57:03",
+      "updated_at": "2020-11-03 23:07:05"
+    },
+    {
+      "uuid": "7ae16d32b454276b20f6a3cbea3c29bf",
+      "title": "PCB_2020-10-19_19-05-09",
+      "filename": "PCB_2020-10-19_19-05-09.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a44775ba53d84edb9df9409e7852306a": 2,
+        "1249f81afe1846008573654eaec6cd8a": 12,
+        "bad64233d6764979b5a1b4bc8d401874": 1,
+        "10740f144756421793e1ecc7520b3129": 2,
+        "616f5abcd48c41a199a45175402b1869": 1,
+        "ee29cd49488e436497e3115f7f5c5f2c": 5,
+        "bf342e146e5b45108e734432d8b20615": 1,
+        "2cefa9001f7e4e2082ba8471c4d5cc26": 2,
+        "5180c2e0c1da4a75b575a8495aee30f2": 1,
+        "21892eb7001a4b70b8abaff85b008f98": 2,
+        "77e2128305a845258d9921d5d0ffe030": 2
+      },
+      "BOM": [],
+      "updateTime": 1604466462,
+      "createTime": 1603148709,
+      "histories": [],
+      "created_at": "2020-10-19 19:05:09",
+      "updated_at": "2020-11-04 00:07:42"
+    }
+  ],
+  "sort": [],
+  "title": "Airsoft Device v2",
+  "foldername": "Airsoft Device v2",
+  "schfilename": "Airsoft Device v2.json",
+  "schfilemtime": 1604462825846
+}

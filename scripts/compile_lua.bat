@@ -1,0 +1,1 @@
+forfiles /P "..\data" /m "*.lua" /c "cmd /c ..\scripts\luac -s -o @fname.luac @file"

@@ -1,0 +1,15 @@
+T-BEAM
+
+Keyboard rows:
+39, 15, 35, 25
+Keyboard cols:
+14, 13, 2
+
+I2S:
+BLK  2
+CHSC 13
+DOUT 15
+
+I2C 2:
+SCL 4
+SDA 0

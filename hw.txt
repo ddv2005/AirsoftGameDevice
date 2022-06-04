@@ -1,0 +1,140 @@
+BOM
+0. LILYGO® TTGO T-Beam V1.1 SX1262 LORA 868/915MHZ ESP32 WiFi Wireless Bluetooth Module GPS NEO-M8N IPEX $37
+https://www.aliexpress.com/item/4001287221970.html?spm=a2g0s.9042311.0.0.60514c4dHFLSmY
+
+1. MakerHawk MAX98357 I2S 
+https://www.amazon.com/MakerHawk-Amplifier-Amplifiers-Filterless-Raspberry/dp/B07PS653CD/ref=sxts_sxwds-bia-wc-nc-drs1_0?cv_ct_cx=i2s&dchild=1&keywords=i2s&pd_rd_i=B07PS653CD&pd_rd_r=b802c120-d2f1-4338-80d8-eea49fd9c4a3&pd_rd_w=NQzjC&pd_rd_wg=hFyF2&pf_rd_p=8f655ecb-bc8c-4750-9088-950aa74d52dd&pf_rd_r=KWT4HS2173W14VN38ZS0&psc=1&qid=1608510469&sr=1-1-88388c6d-14b8-4f70-90f6-05ac39e80cc0
+
+2. 2057-EBHA-04-C-ND EBHA-04-C x10  1.03200
+https://www.digikey.com/en/products/detail/adam-tech/EBHA-04-C/9831107 
+
+3. 2057-EBQA-04-C-C-ND EBQA-04-C-C  x10 0.45400
+https://www.digikey.com/en/products/detail/adam-tech/EBQA-04-C-C/9830894
+
+4. 2057-EBQA-02-C-C-ND EBQA-02-C-C  x10 0.30400
+https://www.digikey.com/en/products/detail/adam-tech/EBQA-02-C-C/9830841
+
+5. 2057-EBHA-02-C-ND EBHA-02-C  x10 0.62600
+https://www.digikey.com/en/products/detail/adam-tech/EBHA-02-C/9831097
+
+6. WM23204-ND 0395205008  4.52
+https://www.digikey.com/en/products/detail/molex/0395205008/2737289
+
+7. WM25899-ND 0395225008 2.28
+https://www.digikey.com/en/products/detail/molex/0395225008/2737614
+
+8. S7046-ND PPPC131LFBN-RC (CONN HDR 13POS 0.1 GOLD PCB) x2 0.88 
+https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC131LFBN-RC/810185
+
+9. S7042-ND PPPC091LFBN-RC (CONN HDR 9POS 0.1 GOLD PCB)  x2 0.67
+https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC091LFBN-RC/810181
+
+10. S7037-ND PPPC041LFBN-RC (CONN HDR 4POS 0.1 GOLD PCB) x2 0.47
+https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC041LFBN-RC/810176
+
+11. S7038-ND PPPC051LFBN-RC (CONN HDR 5POS 0.1 GOLD PCB) x2 0.49
+https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC051LFBN-RC/810177
+
+12. Blue button 8.99
+https://www.amazon.com/gp/product/B01C7CQHLO/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
+
+13. Red Button 8.99
+https://www.amazon.com/gp/product/B01C7CQHAK/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1
+
+14. PCF8574T IO Expansion Board x2 5.31
+https://www.amazon.com/gp/product/B07XD2K4GH/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
+15. Adafruit 0.56" 4-Digit 7-Segment Display w/I2C Backpack - Red PID: 878 $9.95
+https://www.adafruit.com/product/878
+
+16. Adafruit 0.56" 4-Digit 7-Segment Display w/I2C Backpack - Blue PID: 881 $11.95
+https://www.adafruit.com/product/881
+
+17. NeoPixel Stick - 8 x 5050 RGB LED with Integrated Drivers PID: 1426 $5.95
+https://www.adafruit.com/product/1426
+
+18. 3x4 Matrix Keypad PID: 3845  $6.50
+https://www.adafruit.com/product/3845
+
+19. Illuminated Toggle Switch with Cover - Red PID: 3218 $2.95
+https://www.adafruit.com/product/3218
+
+20. 0.96" inch I2C IIC 12864 128X64 Pixel OLED LCD Display Shield Board Module SSD1306 Chip 4 Pin $4
+https://www.amazon.com/gp/product/B085WCRS7C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+21. Twidec / 19mm Waterproof Red Metal Shell Momentary Raised Top Push Button Switch 3A/12~250V SPST 1NO Start Button for car Modification Switch $8
+https://www.amazon.com/gp/product/B07PC16713/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+#22. MakerFocus 4pcs 186 50 Charging Board Dual USB 5V 2.4A Mobile Power Bank Module 186 50 Lithium Battery Charger Board with Overcharge Overdischarge Short Circuit Protection DIY USB Power Bank Board $4
+#https://www.amazon.com/gp/product/B07M836ZV3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+22. diymore 5pcs TP4056 Type-C USB 5V 1A 18650 Lithium Battery Charger Module $9.69
+https://www.amazon.com/gp/product/B07MDPLQ18/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+
+23. Gikfun 2" 4Ohm 3W Full Range Audio Speaker Stereo Woofer Loudspeaker for Arduino  $5
+https://www.amazon.com/gp/product/B01CHYIU26/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+24. 32db High Gain Cirocomm 5cm Active GPS Antenna Ceramic Antenna 25x25x2mm $9
+https://www.amazon.com/gp/product/B078Y2WNY6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+25. CERRXIAN 30cm USB Type C 2.0 Car Mount Dash Flush Waterproof Extension Cable for Car, Boat, Motorcycle, Truck Dashboard (USB-C) $10.98
+https://www.amazon.com/gp/product/B08169ZB5C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+26. CERRXIAN 30cm Micro USB Mount Extension Dash Flush Cable $10.98
+https://www.amazon.com/gp/product/B0816BP7KT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+27. Case Eylar Tactical Hard Gun Case Water & Shock Proof with Foam 13.37 inch 11.62 inch 6 inch $42
+https://www.amazon.com/gp/product/B07RML5MJV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+28. NCR18650B x2 $14
+https://www.amazon.com/gp/product/B083XK5HDG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+29. 18650 Battery Case Holder, 2 Slots $2
+https://www.amazon.com/Battery-Parallel-Batteries-Soldering-Ltvystore/dp/B07CWKBTN1/ref=sr_1_20?dchild=1&keywords=18650+battery+holder&sr=8-20
+
+30. X AUTOHAUX 2pcs Grill Cover 2inch Mesh Protector Car Speaker Cover $4
+https://www.amazon.com/gp/product/B07SCR32HT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+31. Uxcell a11112200ux0536 Electric 2 Positions ON Off Metal Keylock Switch $12.19
+https://www.amazon.com/gp/product/B019I12414/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+Jameco Valuepro IG-406D-2341 Key Lock Switch Single Pole Single Throw Round Terminal Key #2341  $7.75
+https://www.amazon.com/Jameco-Valuepro-IG-406D-2341-Switch-Terminal/dp/B00B88DI98/ref=sr_1_18?dchild=1&keywords=Keylock%2BSwitch&sr=8-18&th=1
+
+32. 1 Channel DC 3V Relay High Level Driver Module Optocoupler Relay Module Isolated Drive Control Board for Arduino $2.80
+https://www.amazon.com/gp/product/B07XGZSYJV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+33. Alarm Siren 120dB $5
+https://www.amazon.com/BNYZWOT-Electronic-Continuous-Decibel-Speaker/dp/B07VT1XDBM/ref=sr_1_11?dchild=1&keywords=Alarm+Siren+120dB&qid=1608514049&sr=8-11
+
+34. MT3608 Boost Converter
+https://www.amazon.com/ANMBEST-MT3608-Converter-Step-Up-Adjustable/dp/B08JYTQ5BW/ref=sr_1_20?dchild=1&keywords=Boost+Regulator&qid=1608517059&sr=8-20
+
+35. SD13 Waterproof 5 pin Power Cable Connector $7.5
+https://www.amazon.com/gp/product/B07B88C12J/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+36. HANDLE RND .187"DIA 1.00"H ALUM x2 $6.12
+https://www.digikey.com/en/products/detail/keystone-electronics/9119/317271
+
+37. Hex Aluminum Standoff Spacer Column M3x55mm $12
+https://www.amazon.com/gp/product/B07MC456T5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+38. 1/4" x 12" x 24" - Transparent Bronze Plexiglass Acrylic Sheet - #2370 $13
+https://www.estreetplastics.com/Transparent-Bronze-Plexiglass-p/t912501224.htm
+
+
+1. Solder main board
+
+2. Make top plate on CNC machine from Plexiglass 1/4"
+3. 
+
+
+1. #1 - RED, #2 - BLUE
+2. BLUE 7 SEG LED solder A0 pad
+3. i2c buttons expander (U3) A0 jumper
+4. i2c expander straighten pins and cut
+5. straighten pins on main board 2 pins power connector
+6. Do not install C4
+7. C1, C2, C3 - 474, C5 - 2200u
+8. Keypad 1-7 from left to right C2 R1 C1 R4 C3 R3 R2
+9. Ext pin out. 1 - VCC, 2 - Ground, 3 - CON1/COM, 4 - CON2/ON
+10. Ext out connector 1->3
+
